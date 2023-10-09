@@ -6,4 +6,4 @@ if 1<= chislo1 <= 8 and 1<= chislo2 <= 8:
     else:
         print("YES")
 else:
-print("Ввели не коретное число")
+    print("Ввели не коретное число")
